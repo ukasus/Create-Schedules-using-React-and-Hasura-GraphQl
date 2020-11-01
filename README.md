@@ -1,7 +1,11 @@
 # Create Schedules With React and Hasura GraphQL API
-## To run the project,execute these commands in order:
+## To check live demo of this project head to-
+https://schedulesbyuk.herokuapp.com/
+### To run the project on your machine,execute these commands in order:
  #### 1. npm install
  #### 2. npm start
+
+## ScreenShots
 
 ### HomePage(All schedule will be shown here)
  ![Alt text](/Schedules.png?raw=true "Optional Title")
